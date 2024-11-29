@@ -3,7 +3,7 @@ Just some basic API and frontend setup in Laravel with Sanctum for auth. DON'T U
 ! NOT YET PERFECT !
 
 # STEPS
-> install Laravel and React (any frontend framework) in different folders/directory
+- install Laravel and React (any frontend framework) in different folders/directory
 
 # Laravel 
 - redirect to your laravel app (iticket-api)
