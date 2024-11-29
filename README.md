@@ -75,3 +75,6 @@ export default App
 - run react app (e.g npm run dev)
 - check console, should have Object { message: "API is working!" } in console.
   
+# Next Steps
+- Make sure auth is actually working
+- make a controller, ewan bukas na lang.
