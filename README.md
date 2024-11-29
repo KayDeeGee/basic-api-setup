@@ -1,8 +1,8 @@
 # basic-api-setup
-Just some basic API and frontend setup in Laravel with Sanctum for auth.
+Just some basic API and frontend setup in Laravel with Sanctum for auth. DON'T USE, ONLY FOR REFERENCE.
 ! NOT YET PERFECT !
 
-#steps
+# STEPS
 > install Laravel and React (any frontend framework) in different folders/directory
 
 # Laravel 
