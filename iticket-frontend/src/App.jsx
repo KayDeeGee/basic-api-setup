@@ -7,7 +7,7 @@ function App() {
     const [count, setCount] = useState(0)
 
     useEffect(() => {
-        api.get('/test')
+        api.post('/test')
             .then(response => {
                 console.log(response.data);
             })
@@ -17,7 +17,6 @@ function App() {
     }, []);
     return (
         <>
-
         </>
     )
 }

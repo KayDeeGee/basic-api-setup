@@ -8,6 +8,6 @@ Route::get('/user', function (Request $request) {
 })->middleware('auth:sanctum');
 
 
-Route::get('/test', function () {
+Route::post('/test', function () {
     return response()->json(['message' => 'API is working!']);
 });
